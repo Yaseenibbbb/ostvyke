@@ -7,3 +7,7 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Video ad build intermediates
+video-ads/out/
+video-ads/node_modules
