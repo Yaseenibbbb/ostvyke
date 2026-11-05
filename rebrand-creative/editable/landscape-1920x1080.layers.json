@@ -1,0 +1,110 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_2.png",
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 1080,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\Effects\\Smoke.png",
+      "x": 345.59999999999997,
+      "y": 216.0,
+      "width": 1305.6000000000001,
+      "height": 1214,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\Human_03_nobg 2.png",
+      "x": -134.4,
+      "y": 75.60000000000001,
+      "width": 902.4,
+      "height": 902,
+      "crop": null,
+      "flip": true
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gatekeeper-edge-blend.png",
+      "x": 1324.8,
+      "y": 54.0,
+      "width": 902.4,
+      "height": 902,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 499.20000000000005,
+      "y": 86.4,
+      "width": 921.5999999999999,
+      "height": 514,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-blue.png",
+      "x": 652.8000000000001,
+      "y": 756.0,
+      "width": 144.0,
+      "height": 139,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-purple.png",
+      "x": 1123.1999999999998,
+      "y": 756.0,
+      "width": 144.0,
+      "height": 139,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-red.png",
+      "x": 854.4,
+      "y": 712.8000000000001,
+      "width": 211.2,
+      "height": 211,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\TitleFrameMainRaven.png",
+      "x": 518.4000000000001,
+      "y": 907.1999999999999,
+      "width": 883.2,
+      "height": 143,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "EVERY MATCH IS A BATTLE.",
+      "x": 722.0,
+      "y": 955.8,
+      "size": 35,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    }
+  ]
+}

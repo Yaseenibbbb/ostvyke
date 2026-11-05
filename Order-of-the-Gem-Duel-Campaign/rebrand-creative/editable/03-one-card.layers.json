@@ -1,0 +1,114 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_2.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "crop": [
+        1300,
+        0,
+        2515,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "ONE CARD.",
+      "x": 341.0,
+      "y": 45,
+      "size": 73,
+      "color": "#f3eee2",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "CHANGE THE FIGHT.",
+      "x": 165.5,
+      "y": 143,
+      "size": 73,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\Effects\\Smoke.png",
+      "x": 120,
+      "y": 210,
+      "width": 800,
+      "height": 744,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\card-back-left.png",
+      "x": 180,
+      "y": 350,
+      "width": 325,
+      "height": 352,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\card-back-right.png",
+      "x": 610,
+      "y": 350,
+      "width": 325,
+      "height": 352,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\flame-tilted.png",
+      "x": 310,
+      "y": 270,
+      "width": 460,
+      "height": 548,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-gold.png",
+      "x": 50,
+      "y": 615,
+      "width": 150,
+      "height": 150,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-purple.png",
+      "x": 900,
+      "y": 590,
+      "width": 120,
+      "height": 116,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\google play screenshots\\6.png",
+      "x": 70,
+      "y": 910,
+      "width": 940,
+      "height": 953,
+      "crop": [
+        0,
+        420,
+        1080,
+        1515
+      ],
+      "flip": false
+    }
+  ]
+}

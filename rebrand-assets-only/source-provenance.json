@@ -1,0 +1,65 @@
+{
+  "artwork_policy": "Only supplied artwork. No AI-generated images, redrawn assets or recoloring.",
+  "selected_sources": [
+    "app icon v1.2\\google play icon\\order of the gems.png",
+    "rebrand-assets-only\\derived\\gem-blue.png",
+    "rebrand-assets-only\\derived\\gem-gold.png",
+    "rebrand-assets-only\\derived\\gem-green.png",
+    "game_title\\Untitled-2.png",
+    "GothicUI2\\GothicUI2\\UIElements\\Background_1.png",
+    "GothicUI2\\GothicUI2\\UIElements\\CornerSlide.png",
+    "GothicUI2\\GothicUI2\\UIElements\\TitleFrameBig.png",
+    "rebrand-assets-only\\derived\\gem-red.png",
+    "rebrand-assets-only\\derived\\gem-purple.png",
+    "GothicUI2\\GothicUI2\\UIElements\\TitleFrameMain.png",
+    "app icon v1.2\\google play screenshots\\1.png",
+    "GothicUI2\\GothicUI2\\UIElements\\DecoratedLineHorizontal.png",
+    "app icon v1.2\\google play screenshots\\2.png",
+    "app icon v1.2\\google play screenshots\\6.png",
+    "app icon v1.2\\google play screenshots\\3.png",
+    "app icon v1.2\\google play screenshots\\4.png",
+    "icons_spells_bosses_cards\\AvatarIcons_vol3\\playeravatar avatar\\Human_03.png",
+    "icons_spells_bosses_cards\\AvatarIcons_vol3\\playeravatar avatar\\God_Athena.png",
+    "icons_spells_bosses_cards\\AvatarIcons_vol3\\playeravatar avatar\\FrostMage.png",
+    "app icon v1.2\\google play screenshots\\5.png",
+    "icons_spells_bosses_cards\\AvatarIcons_vol3\\boss avatar\\The Gatekeeper.png",
+    "icons_spells_bosses_cards\\AvatarIcons_vol3\\boss avatar\\Protector of the Order.png",
+    "icons_spells_bosses_cards\\AvatarIcons_vol3\\boss avatar\\The Alchemist.png",
+    "GothicUI2\\GothicUI2\\UIElements\\SkillFrameGothic_bg.png",
+    "app icon v1.2\\Human_03_nobg 2.png",
+    "splash screen-logo-Mainaccount logo\\Ostvyke Games.png"
+  ],
+  "gem_extraction_source": "app icon v1.2/google play screenshots/1.png",
+  "gem_crop_regions": {
+    "blue": [
+      64,
+      735,
+      176,
+      843
+    ],
+    "green": [
+      58,
+      853,
+      180,
+      965
+    ],
+    "red": [
+      184,
+      734,
+      296,
+      846
+    ],
+    "gold": [
+      307,
+      734,
+      417,
+      844
+    ],
+    "purple": [
+      665,
+      735,
+      779,
+      845
+    ]
+  }
+}

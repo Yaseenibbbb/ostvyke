@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Order of the Gem — main menu redesign</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#0d0c0c;color:#e9decd;font:15px/1.5 Georgia,serif}header{max-width:1000px;margin:24px auto;display:flex;align-items:center;justify-content:space-between;gap:20px;padding:0 20px}header p{margin:0;color:#aa9b89;font:13px/1.5 system-ui,sans-serif}h1{font-size:20px;font-weight:normal;margin:0 0 4px;color:#e6bc7a}a{color:#e6bc7a}main{display:flex;justify-content:center;padding:0 16px 40px}.screen{position:relative;width:min(540px,100%);container-type:inline-size;box-shadow:0 12px 80px #000}.screen>img{display:block;width:100%;height:auto}.control{position:absolute;background:transparent;border:0;cursor:pointer;padding:0;color:inherit;border-radius:3px;-webkit-tap-highlight-color:transparent}.control:hover{background:#e6bc7a0c;box-shadow:inset 0 0 24px #e6bc7a18}.control:active{background:#0002}.control:focus-visible{outline:2px solid #e6bc7a;outline-offset:-4px}.profile-name{position:absolute;left:20.833%;top:4.06%;width:56.48%;height:2.3%;color:#eee7d9;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:3.333cqw;line-height:1.2;pointer-events:none}.utility-label{position:absolute;font-size:2.407cqw;line-height:1.1;color:#b6a690;pointer-events:none;white-space:nowrap;transform:translateX(-50%);top:96.88%}.music-label{left:46.76%}.sound-label{left:70.37%}
+dialog{color:#e9decd;background:#211d1b url('assets/background.png') center/cover;border:1px solid #6e5b46;padding:28px;width:min(92vw,540px);max-height:90svh;box-shadow:0 20px 100px #000;border-radius:3px}dialog::backdrop{background:#000c;backdrop-filter:blur(5px)}dialog h2{font-size:25px;font-weight:normal;color:#e6bc7a;margin:0 40px 8px 0}dialog p{color:#b7a892}dialog img{width:100%;height:auto}dialog label{display:block;margin:18px 0 8px}input{width:100%;background:#100e0d;color:#eee7d9;border:1px solid #645443;padding:12px;font:17px Georgia,serif}.action{background:#4b2424;color:#f2e5d2;border:1px solid #927d64;padding:12px 18px;font:16px Georgia,serif;cursor:pointer;margin:12px 8px 0 0}.close{position:absolute;right:14px;top:14px;width:36px;height:36px;background:#161212;color:#dfcba9;border:1px solid #75634c;font:24px Georgia;cursor:pointer}.setting-row{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #5c4d3d;padding:12px 0}.setting-row .action{margin:0;min-width:100px}.preview-note{font:12px system-ui,sans-serif;color:#aa9b89}#status{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#211b17;color:#ead7b6;border:1px solid #75634c;padding:12px 20px;box-shadow:0 6px 30px #000;z-index:20;display:none}@media(max-width:600px){header{margin:16px auto}header nav{font-size:12px}h1{font-size:17px}}
+</style></head><body>
+<header><div><h1>Order of the Gem / Main menu</h1><p>Clickable design preview</p></div><nav><a href="review/before-after.png">Before & after</a> · <a href="exports/main-menu-1080x2340.png">Full resolution</a></nav></header>
+<main><div class="screen" id="menu"><img src="assets/menu-prototype-base.png" alt="Redesigned gothic main menu: silver logo, a full-body knight, red Play button, illustrated Spells and Cards tiles, and Crypt of Knights leaderboard.">
+<span class="profile-name" id="profileName">ContemplativeEnhanced…</span>
+<button class="control" data-action="profile" aria-label="Edit player profile" style="left:4.444%;top:2.564%;width:76.296%;height:7.521%"></button>
+<button class="control" data-action="settings" aria-label="Open settings" style="left:82.593%;top:3.889%;width:10%;height:4.615%"></button>
+<button class="control" data-action="battle" aria-label="Play — open battle screen preview" style="left:3.704%;top:54.06%;width:92.593%;height:11.709%"></button>
+<button class="control" data-action="spells" aria-label="Open spells preview" style="left:4.444%;top:67.521%;width:43.519%;height:16.239%"></button>
+<button class="control" data-action="cards" aria-label="Open cards preview" style="left:52.037%;top:67.521%;width:43.519%;height:16.239%"></button>
+<button class="control" data-action="leaderboard" aria-label="Open Crypt of Knights leaderboard preview" style="left:4.444%;top:85.684%;width:91.111%;height:8.547%"></button>
+<button class="control" id="musicToggle" aria-label="Toggle music" aria-pressed="true" style="left:31.944%;top:95.513%;width:23.611%;height:3.846%"></button><span class="utility-label music-label" id="musicLabel">MUSIC ON</span>
+<button class="control" id="soundToggle" aria-label="Toggle sound effects" aria-pressed="true" style="left:58.796%;top:95.513%;width:24.074%;height:3.846%"></button><span class="utility-label sound-label" id="soundLabel">SOUND ON</span>
+</div></main>
+<dialog id="panel"><button class="close" aria-label="Close preview">×</button><div id="panelBody"></div></dialog><div id="status" role="status"></div>
+<script>
+const panel=document.getElementById('panel'),body=document.getElementById('panelBody');
+const state={music:true,sound:true,name:'ContemplativeEnhanced…'};
+try{Object.assign(state,JSON.parse(localStorage.getItem('ootg-menu-preview')||'{}'))}catch{}
+const labels={battle:'Battle',spells:'Spells',cards:'Cards',leaderboard:'The Crypt of Knights'};
+function persist(){try{localStorage.setItem('ootg-menu-preview',JSON.stringify(state))}catch{}}
+function sync(){document.getElementById('profileName').textContent=state.name;for(const k of ['music','sound']){document.getElementById(k+'Label').textContent=k.toUpperCase()+' '+(state[k]?'ON':'OFF');document.getElementById(k+'Toggle').setAttribute('aria-pressed',String(state[k]));const b=document.getElementById(k+'Setting');if(b){b.textContent=state[k]?'On':'Off';b.setAttribute('aria-pressed',String(state[k]))}}}
+function notify(s){const e=document.getElementById('status');e.textContent=s;e.style.display='block';clearTimeout(window.noticeTimer);window.noticeTimer=setTimeout(()=>e.style.display='none',1800)}
+function toggle(k){state[k]=!state[k];persist();sync();notify(k[0].toUpperCase()+k.slice(1)+(state[k]?' on':' off'))}
+document.getElementById('musicToggle').onclick=()=>toggle('music');document.getElementById('soundToggle').onclick=()=>toggle('sound');
+document.querySelector('.close').onclick=()=>panel.close();panel.addEventListener('click',e=>{if(e.target===panel){const r=panel.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)panel.close()}});
+document.querySelectorAll('[data-action]').forEach(button=>button.onclick=()=>{
+ const action=button.dataset.action;
+ if(action==='profile'){
+  body.innerHTML='<h2>Your knight</h2><p>Edit your display name.</p><form id="profileForm"><label for="displayName">Player name</label><input id="displayName" maxlength="28" required autocomplete="off"><button class="action" type="submit">Save name</button></form>';
+  document.getElementById('displayName').value=state.name;
+  document.getElementById('profileForm').onsubmit=e=>{e.preventDefault();state.name=document.getElementById('displayName').value.trim()||'Knight';persist();sync();panel.close();notify('Player name updated')};
+ }else if(action==='settings'){
+  body.innerHTML='<h2>Settings</h2><p>Menu preview controls</p><div class="setting-row"><span>Music</span><button class="action" id="musicSetting"></button></div><div class="setting-row"><span>Sound effects</span><button class="action" id="soundSetting"></button></div><p class="preview-note">These controls demonstrate the proposed interaction. No game audio is included in this prototype.</p>';
+  document.getElementById('musicSetting').onclick=()=>toggle('music');document.getElementById('soundSetting').onclick=()=>toggle('sound');sync();
+ }else{
+  body.innerHTML='<h2>'+labels[action]+'</h2><p class="preview-note">Destination preview using your supplied game capture.</p><img src="assets/preview-'+action+'.png" alt="Existing '+labels[action]+' screen"><button class="action" id="backToMenu">Back to menu</button>';
+  document.getElementById('backToMenu').onclick=()=>panel.close();
+ }
+ panel.showModal();
+});sync();
+</script></body></html>

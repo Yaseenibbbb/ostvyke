@@ -1,0 +1,126 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_2.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "crop": [
+        1300,
+        0,
+        2515,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "CHOOSE YOUR",
+      "x": 277.0,
+      "y": 45,
+      "size": 73,
+      "color": "#f3eee2",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "KIND OF POWER.",
+      "x": 233.5,
+      "y": 143,
+      "size": 73,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\spell-arcane.png",
+      "x": 26,
+      "y": 320,
+      "width": 328,
+      "height": 287,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\spell-thunder.png",
+      "x": 376,
+      "y": 320,
+      "width": 328,
+      "height": 290,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\spell-storm.png",
+      "x": 726,
+      "y": 320,
+      "width": 328,
+      "height": 289,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "ARCANE BOLT",
+      "x": 103.0,
+      "y": 652,
+      "size": 25,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "THUNDER BOLT",
+      "x": 441.5,
+      "y": 652,
+      "size": 25,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "HOLY STORM",
+      "x": 808.0,
+      "y": 652,
+      "size": 25,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\google play screenshots\\4.png",
+      "x": 32,
+      "y": 805,
+      "width": 1016,
+      "height": 908,
+      "crop": [
+        0,
+        350,
+        1080,
+        1315
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 440,
+      "y": 1800,
+      "width": 200,
+      "height": 112,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    }
+  ]
+}

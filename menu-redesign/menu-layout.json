@@ -1,0 +1,84 @@
+{
+  "canvas": [
+    1080,
+    2340
+  ],
+  "artwork": "Existing hand-painted assets; new layout, panel slicing, shadow and vignette only.",
+  "sources": [
+    "assets\\GothicUI2\\GothicUI2\\UIElements\\Background_1.png",
+    "menu-redesign\\assets\\ambient-smoke.png",
+    "menu-redesign\\assets\\vignette.png",
+    "menu-redesign\\assets\\profile-panel.png",
+    "assets\\app icon v1.2\\google play icon\\order of the gems.png",
+    "assets\\GothicUI2\\GothicUI2\\UIIcons\\StatsIconTiny.png",
+    "assets\\GothicUI2\\GothicUI2\\UIElements\\SquareGrayButton_Normal.png",
+    "assets\\GothicUI2\\GothicUI2\\UIIcons\\MenuIconTiny.png",
+    "assets\\game_title\\Untitled-2.png",
+    "menu-redesign\\assets\\hero-sigil.png",
+    "menu-redesign\\assets\\knight-ground-shadow.png",
+    "assets\\GothicUI2\\GothicUI2\\Characters\\Character_Knight.png",
+    "rebrand-assets-only\\derived\\gem-red.png",
+    "rebrand-assets-only\\derived\\gem-blue.png",
+    "assets\\GothicUI2\\GothicUI2\\UIElements\\GameButtonRed_Normal.png",
+    "menu-redesign\\assets\\navigation-tile.png",
+    "assets\\icons_spells_bosses_cards\\2000_Icons\\Update_icons\\skill_b_No_bg\\22_Big_Light_arrow_nobg.png",
+    "rebrand-creative\\derived\\card-back-left.png",
+    "rebrand-creative\\derived\\card-back-right.png",
+    "rebrand-creative\\derived\\purifying-flame-cutout.png",
+    "menu-redesign\\assets\\crypt-panel.png",
+    "assets\\GothicUI2\\GothicUI2\\GameIcons\\Class_Paladin_G.png",
+    "assets\\GothicUI2\\GothicUI2\\UIIcons\\ArrowRightTiny.png",
+    "assets\\GothicUI2\\GothicUI2\\GameIcons\\Class_Bard_G.png",
+    "assets\\GothicUI2\\GothicUI2\\UIElements\\DecoratedLineHorizontal.png"
+  ],
+  "hotspots": {
+    "profile": [
+      48,
+      60,
+      824,
+      176
+    ],
+    "settings": [
+      892,
+      91,
+      108,
+      108
+    ],
+    "play": [
+      40,
+      1265,
+      1000,
+      274
+    ],
+    "spells": [
+      48,
+      1580,
+      470,
+      380
+    ],
+    "cards": [
+      562,
+      1580,
+      470,
+      380
+    ],
+    "leaderboard": [
+      48,
+      2005,
+      984,
+      200
+    ],
+    "music": [
+      345,
+      2235,
+      255,
+      90
+    ],
+    "sound": [
+      635,
+      2235,
+      260,
+      90
+    ]
+  }
+}

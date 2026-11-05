@@ -1,0 +1,120 @@
+{
+  "width": 1024,
+  "height": 500,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_1.png",
+      "x": 0,
+      "y": 0,
+      "width": 1024,
+      "height": 500,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\CornerSlide.png",
+      "x": 778.24,
+      "y": 0,
+      "width": 245.76,
+      "height": 245.76,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\google play icon\\order of the gems.png",
+      "x": 670.72,
+      "y": 27.5,
+      "width": 327.68,
+      "height": 327.68,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 66.56,
+      "y": 50.0,
+      "width": 522.24,
+      "height": 291,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\TitleFrameBig.png",
+      "x": 35.84,
+      "y": 382.5,
+      "width": 614.4,
+      "height": 68,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "MATCH GEMS. DEFEAT BOSSES.",
+      "x": 203.54000000000002,
+      "y": 403.5,
+      "size": 18,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-blue.png",
+      "x": 640.0,
+      "y": 382.5,
+      "width": 62.464,
+      "height": 60,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-red.png",
+      "x": 710.656,
+      "y": 382.5,
+      "width": 62.464,
+      "height": 62,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-green.png",
+      "x": 781.312,
+      "y": 382.5,
+      "width": 62.464,
+      "height": 57,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-gold.png",
+      "x": 851.9680000000001,
+      "y": 382.5,
+      "width": 62.464,
+      "height": 62,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-purple.png",
+      "x": 922.624,
+      "y": 382.5,
+      "width": 62.464,
+      "height": 60,
+      "crop": null,
+      "flip": false
+    }
+  ]
+}

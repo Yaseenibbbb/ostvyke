@@ -1,0 +1,46 @@
+{
+  "width": 512,
+  "height": 512,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\SkillFrameGothic_bg.png",
+      "x": 0,
+      "y": 0,
+      "width": 512,
+      "height": 512,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\Human_03_nobg 2.png",
+      "x": -80,
+      "y": 0,
+      "width": 400,
+      "height": 400,
+      "crop": null,
+      "flip": true
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gatekeeper-edge-blend.png",
+      "x": 217,
+      "y": 10,
+      "width": 390,
+      "height": 390,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-red.png",
+      "x": 145,
+      "y": 300,
+      "width": 230,
+      "height": 230,
+      "crop": null,
+      "flip": false
+    }
+  ]
+}

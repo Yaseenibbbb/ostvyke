@@ -1,0 +1,91 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_2.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "crop": [
+        1300,
+        0,
+        2515,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 90,
+      "y": 90,
+      "width": 900,
+      "height": 502,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\Human_03_nobg 2.png",
+      "x": 170,
+      "y": 740,
+      "width": 740,
+      "height": 740,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-blue.png",
+      "x": 170,
+      "y": 1400,
+      "width": 160,
+      "height": 154,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-purple.png",
+      "x": 765,
+      "y": 1410,
+      "width": 150,
+      "height": 145,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-red.png",
+      "x": 410,
+      "y": 1320,
+      "width": 265,
+      "height": 265,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "splash screen-logo-Mainaccount logo\\Ostvyke Games.png",
+      "x": 400,
+      "y": 1700,
+      "width": 280,
+      "height": 205,
+      "crop": [
+        175,
+        84,
+        851,
+        580
+      ],
+      "flip": false
+    }
+  ]
+}

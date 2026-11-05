@@ -1,0 +1,148 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_2.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "crop": [
+        1300,
+        0,
+        2515,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "THE ORDER",
+      "x": 325.5,
+      "y": 45,
+      "size": 73,
+      "color": "#f3eee2",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "FIGHTS BACK.",
+      "x": 288.5,
+      "y": 143,
+      "size": 73,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\SkillFrameGothic_bg.png",
+      "x": 25,
+      "y": 285,
+      "width": 330,
+      "height": 330,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "icons_spells_bosses_cards\\AvatarIcons_vol3\\boss avatar\\The Gatekeeper.png",
+      "x": 35,
+      "y": 295,
+      "width": 310,
+      "height": 310,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\SkillFrameGothic_bg.png",
+      "x": 375,
+      "y": 285,
+      "width": 330,
+      "height": 330,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "icons_spells_bosses_cards\\AvatarIcons_vol3\\boss avatar\\Protector of the Order.png",
+      "x": 385,
+      "y": 295,
+      "width": 310,
+      "height": 310,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\SkillFrameGothic_bg.png",
+      "x": 725,
+      "y": 285,
+      "width": 330,
+      "height": 330,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "icons_spells_bosses_cards\\AvatarIcons_vol3\\boss avatar\\The Alchemist.png",
+      "x": 735,
+      "y": 295,
+      "width": 310,
+      "height": 310,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\google play screenshots\\2.png",
+      "x": 32,
+      "y": 660,
+      "width": 1016,
+      "height": 964,
+      "crop": [
+        0,
+        420,
+        1080,
+        1445
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\TitleFrameMainRaven.png",
+      "x": 50,
+      "y": 1640,
+      "width": 980,
+      "height": 159,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "DIFFERENT FOES. DIFFERENT TACTICS.",
+      "x": 228.5,
+      "y": 1698,
+      "size": 32,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 440,
+      "y": 1800,
+      "width": 200,
+      "height": 112,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    }
+  ]
+}

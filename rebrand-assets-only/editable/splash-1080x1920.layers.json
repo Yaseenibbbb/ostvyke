@@ -1,0 +1,90 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_1.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "crop": [
+        1300,
+        0,
+        2515,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 105,
+      "y": 110,
+      "width": 870,
+      "height": 485,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\SkillFrameGothic_bg.png",
+      "x": 190,
+      "y": 730,
+      "width": 700,
+      "height": 700,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\Human_03_nobg 2.png",
+      "x": 210,
+      "y": 730,
+      "width": 660,
+      "height": 660,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\TitleFrameMain.png",
+      "x": 60,
+      "y": 1450,
+      "width": 960,
+      "height": 156,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "MATCH-3 PUZZLE RPG",
+      "x": 327.0,
+      "y": 1505,
+      "size": 39,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "splash screen-logo-Mainaccount logo\\Ostvyke Games.png",
+      "x": 420,
+      "y": 1730,
+      "width": 240,
+      "height": 176,
+      "crop": [
+        175,
+        84,
+        851,
+        580
+      ],
+      "flip": false
+    }
+  ]
+}

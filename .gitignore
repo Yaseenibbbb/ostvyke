@@ -1,0 +1,9 @@
+# Local preview browser state
+**/edge-preview-profile/
+
+# Python and operating-system caches
+**/__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+Desktop.ini

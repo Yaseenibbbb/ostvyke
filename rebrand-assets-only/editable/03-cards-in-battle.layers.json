@@ -1,0 +1,104 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_1.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "crop": [
+        1300,
+        0,
+        2515,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 365,
+      "y": 10,
+      "width": 350,
+      "height": 195,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\TitleFrameMain.png",
+      "x": 5,
+      "y": 204,
+      "width": 1070,
+      "height": 173,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "TURN THE TIDE WITH CARDS.",
+      "x": 185.5,
+      "y": 266,
+      "size": 48,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\google play screenshots\\6.png",
+      "x": 32,
+      "y": 384,
+      "width": 1016,
+      "height": 1025,
+      "crop": [
+        0,
+        420,
+        1080,
+        1510
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\google play screenshots\\6.png",
+      "x": 132,
+      "y": 1433,
+      "width": 815,
+      "height": 347,
+      "crop": [
+        0,
+        1940,
+        1080,
+        2400
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\DecoratedLineHorizontal.png",
+      "x": 140,
+      "y": 1800,
+      "width": 800,
+      "height": 16,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "ORDER OF THE GEM",
+      "x": 411.0,
+      "y": 1850,
+      "size": 26,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    }
+  ]
+}

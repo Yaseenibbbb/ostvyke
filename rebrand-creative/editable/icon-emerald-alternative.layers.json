@@ -1,0 +1,46 @@
+{
+  "width": 512,
+  "height": 512,
+  "layers": [
+    {
+      "type": "image",
+      "source": "app icon v1.2\\google play icon\\order of the gems.png",
+      "x": 0,
+      "y": 0,
+      "width": 512,
+      "height": 512,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-purple.png",
+      "x": 35,
+      "y": 344,
+      "width": 155,
+      "height": 150,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-blue.png",
+      "x": 334,
+      "y": 345,
+      "width": 154,
+      "height": 148,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-green.png",
+      "x": 151,
+      "y": 280,
+      "width": 240,
+      "height": 220,
+      "crop": null,
+      "flip": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "width": 512,
+  "height": 512,
+  "layers": [
+    {
+      "type": "image",
+      "source": "app icon v1.2\\google play icon\\order of the gems.png",
+      "x": 0,
+      "y": 0,
+      "width": 512,
+      "height": 512,
+      "crop": null,
+      "flip": false
+    }
+  ]
+}

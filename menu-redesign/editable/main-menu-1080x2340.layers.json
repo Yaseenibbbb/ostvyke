@@ -1,0 +1,438 @@
+{
+  "width": 1080,
+  "height": 2340,
+  "layers": [
+    {
+      "type": "image",
+      "source": "assets\\GothicUI2\\GothicUI2\\UIElements\\Background_1.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 2340,
+      "crop": [
+        1420,
+        0,
+        2417,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "menu-redesign\\assets\\ambient-smoke.png",
+      "x": -150,
+      "y": 600,
+      "width": 1250,
+      "height": 1162,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "menu-redesign\\assets\\vignette.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 2340,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "menu-redesign\\assets\\profile-panel.png",
+      "x": 48,
+      "y": 60,
+      "width": 984,
+      "height": 176,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "assets\\app icon v1.2\\google play icon\\order of the gems.png",
+      "x": 68,
+      "y": 79,
+      "width": 136,
+      "height": 136,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "ContemplativeEnhanced\u2026",
+      "x": 320.5,
+      "y": 95,
+      "size": 36,
+      "color": "#eee7d9",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "KNIGHT  \u2022  RANK \u2014",
+      "x": 293.0,
+      "y": 151,
+      "size": 27,
+      "color": "#bcab92",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "assets\\GothicUI2\\GothicUI2\\UIIcons\\StatsIconTiny.png",
+      "x": 710,
+      "y": 145,
+      "width": 32,
+      "height": 32,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "0",
+      "x": 770.0,
+      "y": 150,
+      "size": 26,
+      "color": "#e6bc7a",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "assets\\GothicUI2\\GothicUI2\\UIElements\\SquareGrayButton_Normal.png",
+      "x": 892,
+      "y": 91,
+      "width": 108,
+      "height": 108,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "assets\\GothicUI2\\GothicUI2\\UIIcons\\MenuIconTiny.png",
+      "x": 920,
+      "y": 119,
+      "width": 52,
+      "height": 52,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "assets\\game_title\\Untitled-2.png",
+      "x": 80,
+      "y": 300,
+      "width": 590,
+      "height": 329,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "menu-redesign\\assets\\hero-sigil.png",
+      "x": 310,
+      "y": 540,
+      "width": 720,
+      "height": 720,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "menu-redesign\\assets\\knight-ground-shadow.png",
+      "x": 226,
+      "y": 1077,
+      "width": 800,
+      "height": 196,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "assets\\GothicUI2\\GothicUI2\\Characters\\Character_Knight.png",
+      "x": 285,
+      "y": 475,
+      "width": 770,
+      "height": 868,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "THE ORDER",
+      "x": 113.0,
+      "y": 710,
+      "size": 38,
+      "color": "#e6bc7a",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "AWAITS.",
+      "x": 117.0,
+      "y": 764,
+      "size": 52,
+      "color": "#eee7d9",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "Match gems.",
+      "x": 137.0,
+      "y": 856,
+      "size": 26,
+      "color": "#cbbfac",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "Cast spells.",
+      "x": 145.5,
+      "y": 900,
+      "size": 26,
+      "color": "#cbbfac",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "Defy the dark.",
+      "x": 140.0,
+      "y": 944,
+      "size": 26,
+      "color": "#cbbfac",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-red.png",
+      "x": 106,
+      "y": 1032,
+      "width": 108,
+      "height": 108,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-blue.png",
+      "x": 209,
+      "y": 1070,
+      "width": 78,
+      "height": 75,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "assets\\GothicUI2\\GothicUI2\\UIElements\\GameButtonRed_Normal.png",
+      "x": 40,
+      "y": 1265,
+      "width": 1000,
+      "height": 274,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "PLAY",
+      "x": 440.0,
+      "y": 1350,
+      "size": 80,
+      "color": "#eee7d9",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "ENTER THE NEXT BATTLE",
+      "x": 375.0,
+      "y": 1450,
+      "size": 26,
+      "color": "#e6bc7a",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "menu-redesign\\assets\\navigation-tile.png",
+      "x": 48,
+      "y": 1580,
+      "width": 470,
+      "height": 380,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "menu-redesign\\assets\\navigation-tile.png",
+      "x": 562,
+      "y": 1580,
+      "width": 470,
+      "height": 380,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "assets\\icons_spells_bosses_cards\\2000_Icons\\Update_icons\\skill_b_No_bg\\22_Big_Light_arrow_nobg.png",
+      "x": 174,
+      "y": 1600,
+      "width": 220,
+      "height": 220,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "SPELLS",
+      "x": 203.0,
+      "y": 1843,
+      "size": 45,
+      "color": "#eee7d9",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "Shape your power",
+      "x": 171.5,
+      "y": 1911,
+      "size": 28,
+      "color": "#b8a991",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\card-back-left.png",
+      "x": 647,
+      "y": 1620,
+      "width": 170,
+      "height": 184,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\card-back-right.png",
+      "x": 786,
+      "y": 1620,
+      "width": 170,
+      "height": 184,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\purifying-flame-cutout.png",
+      "x": 715,
+      "y": 1600,
+      "width": 180,
+      "height": 228,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "CARDS",
+      "x": 722.0,
+      "y": 1843,
+      "size": 45,
+      "color": "#eee7d9",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "Build your strategy",
+      "x": 679.5,
+      "y": 1911,
+      "size": 28,
+      "color": "#b8a991",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "menu-redesign\\assets\\crypt-panel.png",
+      "x": 48,
+      "y": 2005,
+      "width": 984,
+      "height": 200,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "assets\\GothicUI2\\GothicUI2\\GameIcons\\Class_Paladin_G.png",
+      "x": 90,
+      "y": 2035,
+      "width": 134,
+      "height": 134,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "CRYPT OF KNIGHTS",
+      "x": 381.5,
+      "y": 2055,
+      "size": 36,
+      "color": "#e6bc7a",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "Leaderboard",
+      "x": 469.5,
+      "y": 2121,
+      "size": 30,
+      "color": "#cbbfac",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "assets\\GothicUI2\\GothicUI2\\UIIcons\\ArrowRightTiny.png",
+      "x": 928,
+      "y": 2084,
+      "width": 40,
+      "height": 40,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "assets\\GothicUI2\\GothicUI2\\GameIcons\\Class_Bard_G.png",
+      "x": 363,
+      "y": 2250,
+      "width": 54,
+      "height": 54,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "MUSIC ON",
+      "x": 439.5,
+      "y": 2267,
+      "size": 26,
+      "color": "#b6a690",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "SOUND ON",
+      "x": 691.0,
+      "y": 2267,
+      "size": 26,
+      "color": "#b6a690",
+      "font": "assets\\GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "assets\\GothicUI2\\GothicUI2\\UIElements\\DecoratedLineHorizontal.png",
+      "x": 390,
+      "y": 2310,
+      "width": 300,
+      "height": 6,
+      "crop": null,
+      "flip": false
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_1.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "crop": [
+        1300,
+        0,
+        2515,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 365,
+      "y": 10,
+      "width": 350,
+      "height": 195,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\TitleFrameMain.png",
+      "x": 5,
+      "y": 204,
+      "width": 1070,
+      "height": 173,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "EQUIP YOUR SPELLS.",
+      "x": 292.0,
+      "y": 266,
+      "size": 48,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\google play screenshots\\4.png",
+      "x": 32,
+      "y": 384,
+      "width": 1016,
+      "height": 908,
+      "crop": [
+        0,
+        350,
+        1080,
+        1315
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "icons_spells_bosses_cards\\AvatarIcons_vol3\\playeravatar avatar\\Human_03.png",
+      "x": 160,
+      "y": 1357,
+      "width": 220,
+      "height": 220,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "icons_spells_bosses_cards\\AvatarIcons_vol3\\playeravatar avatar\\God_Athena.png",
+      "x": 430,
+      "y": 1357,
+      "width": 220,
+      "height": 220,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "icons_spells_bosses_cards\\AvatarIcons_vol3\\playeravatar avatar\\FrostMage.png",
+      "x": 700,
+      "y": 1357,
+      "width": 220,
+      "height": 220,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\DecoratedLineHorizontal.png",
+      "x": 140,
+      "y": 1800,
+      "width": 800,
+      "height": 16,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "ORDER OF THE GEM",
+      "x": 411.0,
+      "y": 1850,
+      "size": 26,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    }
+  ]
+}

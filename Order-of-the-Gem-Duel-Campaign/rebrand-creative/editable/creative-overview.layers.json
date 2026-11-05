@@ -1,0 +1,125 @@
+{
+  "width": 2048,
+  "height": 1536,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_2.png",
+      "x": 0,
+      "y": 0,
+      "width": 2048,
+      "height": 1536,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\store\\feature-graphic-1024x500.png",
+      "x": 20,
+      "y": 20,
+      "width": 1420,
+      "height": 693,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\store\\app-icon-512.png",
+      "x": 1490,
+      "y": 40,
+      "width": 245,
+      "height": 245,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\brand\\icon-duel-alternative.png",
+      "x": 1760,
+      "y": 40,
+      "width": 245,
+      "height": 245,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\brand\\icon-emerald-alternative.png",
+      "x": 1490,
+      "y": 325,
+      "width": 245,
+      "height": 245,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\store\\screenshots\\01-match-to-survive.png",
+      "x": 30,
+      "y": 760,
+      "width": 310,
+      "height": 551,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\store\\screenshots\\02-the-order-fights-back.png",
+      "x": 366,
+      "y": 760,
+      "width": 310,
+      "height": 551,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\store\\screenshots\\03-one-card.png",
+      "x": 702,
+      "y": 760,
+      "width": 310,
+      "height": 551,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\store\\screenshots\\04-your-hand.png",
+      "x": 1038,
+      "y": 760,
+      "width": 310,
+      "height": 551,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\store\\screenshots\\05-choose-your-power.png",
+      "x": 1374,
+      "y": 760,
+      "width": 310,
+      "height": 551,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\store\\screenshots\\06-leave-your-name.png",
+      "x": 1710,
+      "y": 760,
+      "width": 310,
+      "height": 551,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "ORDER OF THE GEM \u2022 THE DUEL CAMPAIGN",
+      "x": 536.5,
+      "y": 1410,
+      "size": 45,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_2.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "crop": [
+        1300,
+        0,
+        2515,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\Effects\\Smoke.png",
+      "x": 160,
+      "y": 250,
+      "width": 800,
+      "height": 744,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\Human_03_nobg 2.png",
+      "x": -90,
+      "y": 230,
+      "width": 660,
+      "height": 660,
+      "crop": null,
+      "flip": true
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gatekeeper-edge-blend.png",
+      "x": 550,
+      "y": 210,
+      "width": 670,
+      "height": 670,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "MATCH TO",
+      "x": 347.5,
+      "y": 45,
+      "size": 73,
+      "color": "#f3eee2",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "SURVIVE.",
+      "x": 369.5,
+      "y": 143,
+      "size": 73,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-blue.png",
+      "x": 270,
+      "y": 596,
+      "width": 145,
+      "height": 140,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-purple.png",
+      "x": 670,
+      "y": 612,
+      "width": 132,
+      "height": 127,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-red.png",
+      "x": 416,
+      "y": 521,
+      "width": 238,
+      "height": 238,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\google play screenshots\\1.png",
+      "x": 32,
+      "y": 800,
+      "width": 1016,
+      "height": 964,
+      "crop": [
+        0,
+        420,
+        1080,
+        1445
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 440,
+      "y": 1800,
+      "width": 200,
+      "height": 112,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "width": 1080,
+  "height": 1080,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_1.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1080,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 120,
+      "y": 35,
+      "width": 840,
+      "height": 469,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\Human_03_nobg 2.png",
+      "x": 340,
+      "y": 480,
+      "width": 570,
+      "height": 570,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "icons_spells_bosses_cards\\AvatarIcons_vol3\\boss avatar\\The Gatekeeper.png",
+      "x": 30,
+      "y": 600,
+      "width": 250,
+      "height": 250,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-blue.png",
+      "x": 40,
+      "y": 925,
+      "width": 80,
+      "height": 77,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-red.png",
+      "x": 128,
+      "y": 925,
+      "width": 80,
+      "height": 80,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-green.png",
+      "x": 216,
+      "y": 925,
+      "width": 80,
+      "height": 73,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-gold.png",
+      "x": 304,
+      "y": 925,
+      "width": 80,
+      "height": 80,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-purple.png",
+      "x": 392,
+      "y": 925,
+      "width": 80,
+      "height": 77,
+      "crop": null,
+      "flip": false
+    }
+  ]
+}

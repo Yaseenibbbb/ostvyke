@@ -1,0 +1,123 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_2.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "crop": [
+        1300,
+        0,
+        2515,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 90,
+      "y": 80,
+      "width": 900,
+      "height": 502,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\Human_03_nobg 2.png",
+      "x": -190,
+      "y": 730,
+      "width": 860,
+      "height": 860,
+      "crop": null,
+      "flip": true
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gatekeeper-edge-blend.png",
+      "x": 550,
+      "y": 720,
+      "width": 860,
+      "height": 860,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "EVERY MATCH",
+      "x": 284.0,
+      "y": 620,
+      "size": 71,
+      "color": "#f3eee2",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "IS A BATTLE.",
+      "x": 320.0,
+      "y": 715,
+      "size": 71,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-blue.png",
+      "x": 220,
+      "y": 1400,
+      "width": 170,
+      "height": 164,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-purple.png",
+      "x": 700,
+      "y": 1420,
+      "width": 150,
+      "height": 145,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\gem-red.png",
+      "x": 403,
+      "y": 1300,
+      "width": 270,
+      "height": 270,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\TitleFrameMainRaven.png",
+      "x": 85,
+      "y": 1650,
+      "width": 910,
+      "height": 148,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "MATCH-3 \u2022 SPELLS \u2022 BOSS BATTLES",
+      "x": 249.5,
+      "y": 1704,
+      "size": 34,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    }
+  ]
+}

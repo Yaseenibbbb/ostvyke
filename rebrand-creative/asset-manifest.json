@@ -1,0 +1,56 @@
+[
+  {
+    "file": "store/screenshots/01-match-to-survive.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "caption": "Knight versus Gatekeeper; a captured match-3 board below.",
+    "capture": "app icon v1.2/google play screenshots/1.png"
+  },
+  {
+    "file": "store/screenshots/02-the-order-fights-back.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "caption": "Three original bosses and the captured Protector encounter.",
+    "capture": "app icon v1.2/google play screenshots/2.png"
+  },
+  {
+    "file": "store/screenshots/03-one-card.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "caption": "Original Purifying Flame card featured above its captured use during battle.",
+    "capture": "app icon v1.2/google play screenshots/6.png"
+  },
+  {
+    "file": "store/screenshots/04-your-hand.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "caption": "A fan of existing cards above the original card loadout screen.",
+    "capture": "app icon v1.2/google play screenshots/3.png"
+  },
+  {
+    "file": "store/screenshots/05-choose-your-power.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "caption": "Original spell images enlarged above the captured spell loadout.",
+    "capture": "app icon v1.2/google play screenshots/4.png"
+  },
+  {
+    "file": "store/screenshots/06-leave-your-name.png",
+    "size": [
+      1080,
+      1920
+    ],
+    "caption": "Original knight and avatars above the Crypt of Knights leaderboard.",
+    "capture": "app icon v1.2/google play screenshots/5.png"
+  }
+]

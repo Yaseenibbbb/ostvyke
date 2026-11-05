@@ -1,0 +1,115 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_1.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "crop": [
+        1300,
+        0,
+        2515,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 120,
+      "y": 120,
+      "width": 840,
+      "height": 469,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\Human_03_nobg 2.png",
+      "x": 170,
+      "y": 700,
+      "width": 740,
+      "height": 740,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\TitleFrameMain.png",
+      "x": 20,
+      "y": 1500,
+      "width": 1040,
+      "height": 169,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "MATCH GEMS. DEFEAT BOSSES.",
+      "x": 216.5,
+      "y": 1560,
+      "size": 42,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-blue.png",
+      "x": 240,
+      "y": 1735,
+      "width": 100,
+      "height": 96,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-red.png",
+      "x": 365,
+      "y": 1735,
+      "width": 100,
+      "height": 100,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-green.png",
+      "x": 490,
+      "y": 1735,
+      "width": 100,
+      "height": 92,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-gold.png",
+      "x": 615,
+      "y": 1735,
+      "width": 100,
+      "height": 100,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\derived\\gem-purple.png",
+      "x": 740,
+      "y": 1735,
+      "width": 100,
+      "height": 96,
+      "crop": null,
+      "flip": false
+    }
+  ]
+}

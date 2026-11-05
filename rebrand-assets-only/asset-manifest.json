@@ -1,0 +1,80 @@
+[
+  {
+    "file": "store/screenshots/01-match-and-battle.png",
+    "width": 1080,
+    "height": 1920,
+    "capture": "app icon v1.2\\google play screenshots\\1.png",
+    "crop": [
+      0,
+      420,
+      1080,
+      1445
+    ],
+    "alt_text": "The Gatekeeper encounter and original match-3 board."
+  },
+  {
+    "file": "store/screenshots/02-boss-encounters.png",
+    "width": 1080,
+    "height": 1920,
+    "capture": "app icon v1.2\\google play screenshots\\2.png",
+    "crop": [
+      0,
+      420,
+      1080,
+      1445
+    ],
+    "alt_text": "The Protector of the Order encounter with a captured magical board effect."
+  },
+  {
+    "file": "store/screenshots/03-cards-in-battle.png",
+    "width": 1080,
+    "height": 1920,
+    "capture": "app icon v1.2\\google play screenshots\\6.png",
+    "crop": [
+      0,
+      420,
+      1080,
+      1510
+    ],
+    "alt_text": "Purifying Flame displayed during the Alchemist battle."
+  },
+  {
+    "file": "store/screenshots/04-collect-cards.png",
+    "width": 1080,
+    "height": 1920,
+    "capture": "app icon v1.2\\google play screenshots\\3.png",
+    "crop": [
+      0,
+      340,
+      1080,
+      1520
+    ],
+    "alt_text": "The original card collection and equipped card slots."
+  },
+  {
+    "file": "store/screenshots/05-equip-spells.png",
+    "width": 1080,
+    "height": 1920,
+    "capture": "app icon v1.2\\google play screenshots\\4.png",
+    "crop": [
+      0,
+      350,
+      1080,
+      1315
+    ],
+    "alt_text": "The original Arcane Bolt, Thunder Bolt and Holy Storm spell loadout."
+  },
+  {
+    "file": "store/screenshots/06-crypt-of-knights.png",
+    "width": 1080,
+    "height": 1920,
+    "capture": "app icon v1.2\\google play screenshots\\5.png",
+    "crop": [
+      0,
+      160,
+      1080,
+      1320
+    ],
+    "alt_text": "The captured Crypt of Knights leaderboard."
+  }
+]

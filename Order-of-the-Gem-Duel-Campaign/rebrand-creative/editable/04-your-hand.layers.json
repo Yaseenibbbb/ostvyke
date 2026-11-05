@@ -1,0 +1,99 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_2.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "crop": [
+        1300,
+        0,
+        2515,
+        2160
+      ],
+      "flip": false
+    },
+    {
+      "type": "text",
+      "text": "YOUR HAND.",
+      "x": 309.0,
+      "y": 45,
+      "size": 73,
+      "color": "#f3eee2",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "text",
+      "text": "YOUR STRATEGY.",
+      "x": 230.0,
+      "y": 143,
+      "size": 73,
+      "color": "#edbd73",
+      "font": "GothicUI2\\GothicUI2\\Fonts\\georgia.ttf"
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\card-back-left.png",
+      "x": 180,
+      "y": 295,
+      "width": 300,
+      "height": 325,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\card-back-right.png",
+      "x": 600,
+      "y": 295,
+      "width": 300,
+      "height": 325,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-creative\\derived\\purifying-flame-cutout.png",
+      "x": 375,
+      "y": 265,
+      "width": 320,
+      "height": 405,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "app icon v1.2\\google play screenshots\\3.png",
+      "x": 70,
+      "y": 760,
+      "width": 940,
+      "height": 1027,
+      "crop": [
+        0,
+        340,
+        1080,
+        1520
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 440,
+      "y": 1800,
+      "width": 200,
+      "height": 112,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "width": 1920,
+  "height": 1450,
+  "layers": [
+    {
+      "type": "image",
+      "source": "GothicUI2\\GothicUI2\\UIElements\\Background_1.png",
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 1450,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "game_title\\Untitled-2.png",
+      "x": 60,
+      "y": 40,
+      "width": 460,
+      "height": 257,
+      "crop": [
+        118,
+        102,
+        1226,
+        720
+      ],
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\store\\app-icon-512.png",
+      "x": 80,
+      "y": 340,
+      "width": 290,
+      "height": 290,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\store\\feature-graphic-1024x500.png",
+      "x": 450,
+      "y": 270,
+      "width": 1390,
+      "height": 679,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\store\\screenshots\\01-match-and-battle.png",
+      "x": 70,
+      "y": 920,
+      "width": 270,
+      "height": 480,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\store\\screenshots\\02-boss-encounters.png",
+      "x": 373,
+      "y": 920,
+      "width": 270,
+      "height": 480,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\store\\screenshots\\03-cards-in-battle.png",
+      "x": 676,
+      "y": 920,
+      "width": 270,
+      "height": 480,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\store\\screenshots\\04-collect-cards.png",
+      "x": 979,
+      "y": 920,
+      "width": 270,
+      "height": 480,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\store\\screenshots\\05-equip-spells.png",
+      "x": 1282,
+      "y": 920,
+      "width": 270,
+      "height": 480,
+      "crop": null,
+      "flip": false
+    },
+    {
+      "type": "image",
+      "source": "rebrand-assets-only\\store\\screenshots\\06-crypt-of-knights.png",
+      "x": 1585,
+      "y": 920,
+      "width": 270,
+      "height": 480,
+      "crop": null,
+      "flip": false
+    }
+  ]
+}
