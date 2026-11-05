@@ -71,7 +71,7 @@ ad.draw = (ctx, t) => {
     const x = 540 + b.dir * (1 - inP) * 900 - b.dir * outP * 1100, y = 1020;
     const fill = prog(t, b.t + 0.1, b.t + 0.75, E.ease.out);
     E.ring(ctx, t, b.t + 0.05, 540, 1000, 700, '255,190,120', 0.55, 20);
-    bossCard(ctx, t, b, x, y, 560, { rot: b.dir * 0.05 * (1 - inP), fill, flash: 0.7 * clamp(1 - (t - b.t) / 0.25) * (t > b.t ? 1 : 0), infoA: prog(t, b.t, b.t + 0.2) });
+    bossCard(ctx, t, b, x, y, 560, { rot: b.dir * 0.05 * (1 - inP), fill, flash: 0.7 * clamp(1 - (t - b.t) / 0.25) * (t > b.t ? 1 : 0), infoA: prog(t, b.t, b.t + 0.2) * (1 - prog(t, next - 0.3, next - 0.15)) });
   });
 
   // ---- 3. line-up ----
